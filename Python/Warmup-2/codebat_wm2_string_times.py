@@ -1,4 +1,4 @@
-#CodingBat Python Warmup-1>string_times:
+#CodingBat Python Warmup-2>string_times:
 def main():
   #unit test
   print('Expected Values: \nHiHi, HiHiHi, Hi, \'\', HiHiHiHiHi, Oh Boy!Oh Boy!, xxxx, \'\', codecode, codecodecode \nActual:')
